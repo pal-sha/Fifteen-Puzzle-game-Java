@@ -24,4 +24,4 @@ In this project, the following classes were implemented:
      - toString: to re-print board onto terminal in the same format as it was written in the .txt file
 
 
-All this was completed for the class assignment, however I am now currently working in my own time to add real user interaction, a random game board generator, and potentially computer intelligence to solve the game board as well.
+All this was completed for the class assignment, however I am now currently working in my own time to add real user interaction, a random game board generator, and potentially computer intelligence to solve the game board as well. Please see my other project for this version, "Fifteen Puzzle Game V2.0"
